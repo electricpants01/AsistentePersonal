@@ -28,7 +28,7 @@
 .pub-cache/
 .pub/
 /build/
-assets/
+assets/cred2.json
 
 # Android related
 **/android/**/gradle-wrapper.jar
