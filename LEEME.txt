@@ -1,0 +1,5 @@
+Las credenciales deben estar en assets/credentials.json
+Como las generas ? 
+- crear account service en tu proyecto de google, el cual debe estar vinculado con tu proyecto de dialogflow
+- le das crear servicio -> tipo "Dialogflow"
+Fin.
