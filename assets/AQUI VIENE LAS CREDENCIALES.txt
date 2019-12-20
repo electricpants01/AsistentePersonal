@@ -1,2 +1,2 @@
 PON AQUI TUS CREDENCIALES DE SERIVICIOS DE GOOGLE
-REVISA /LEEME.TXT en la raiz del proyecto
+REVISA /LEEME.TXT en la raiz del proyecto.
